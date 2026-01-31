@@ -1,0 +1,7 @@
+{
+  "name": "Ace12 - Class 12 CBSE",
+  "description": "A premium study platform for CBSE Class 12 students featuring comprehensive notes and 4250+ analyzed previous years' questions for Physics, Maths, Chemistry, Biology, Computer Science, and Physical Education.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
